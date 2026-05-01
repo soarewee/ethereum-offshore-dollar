@@ -4,6 +4,8 @@
 
 Stablecoins on Ethereum are not just a successful crypto use case. They may represent a new form of offshore dollar infrastructure.
 
+Dune dashboard: https://dune.com/soarewee/ethereum-offshore-dollar-poc-stablecoin-rails
+
 The article should be split into two macro parts:
 
 1. **Why stablecoins on Ethereum work as an offshore dollar rail.**
@@ -175,4 +177,3 @@ The stronger argument is:
 Best concise thesis:
 
 > The Eurodollar made the dollar global but opaque. Stablecoins make the offshore dollar faster, more accessible, more programmable, and partially observable. Ethereum matters because it is where this new dollar form becomes public software infrastructure.
-
