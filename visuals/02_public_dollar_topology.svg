@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <rect width="1600" height="1000" fill="#101314"/>
+  <text x="80" y="95" font-family="Georgia, serif" font-size="58" fill="#f5f0e6">The New Map Is Topology, Not Geography</text>
+  <text x="82" y="142" font-family="Arial, sans-serif" font-size="23" fill="#c8c1b4">Stablecoin addresses do not show countries. They do show the shape of public dollar circulation.</text>
+
+  <line x1="800" y1="235" x2="330" y2="595" stroke="#315d55" stroke-width="22" opacity="0.9"/>
+  <line x1="800" y1="235" x2="800" y2="635" stroke="#315d55" stroke-width="35" opacity="0.9"/>
+  <line x1="800" y1="235" x2="1270" y2="595" stroke="#315d55" stroke-width="18" opacity="0.9"/>
+  <line x1="800" y1="235" x2="800" y2="820" stroke="#7c593c" stroke-width="12" opacity="0.8"/>
+
+  <circle cx="800" cy="235" r="135" fill="#f0b35a"/>
+  <text x="800" y="224" text-anchor="middle" font-family="Arial, sans-serif" font-size="35" fill="#111">Ethereum</text>
+  <text x="800" y="266" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" fill="#111">large-value settlement</text>
+  <text x="800" y="302" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#111">$64.8k avg transfer</text>
+
+  <circle cx="330" cy="595" r="118" fill="#68c3a3"/>
+  <text x="330" y="584" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" fill="#0c1716">Arbitrum</text>
+  <text x="330" y="623" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" fill="#0c1716">distribution rail</text>
+  <text x="330" y="655" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#0c1716">25.9 transfers / active address</text>
+
+  <circle cx="800" cy="635" r="148" fill="#7bd0c2"/>
+  <text x="800" y="624" text-anchor="middle" font-family="Arial, sans-serif" font-size="38" fill="#0c1716">Base</text>
+  <text x="800" y="666" text-anchor="middle" font-family="Arial, sans-serif" font-size="23" fill="#0c1716">high-throughput dollar layer</text>
+  <text x="800" y="703" text-anchor="middle" font-family="Arial, sans-serif" font-size="22" fill="#0c1716">774.7M transfers in 180 days</text>
+
+  <circle cx="1270" cy="595" r="110" fill="#a2d6a4"/>
+  <text x="1270" y="584" text-anchor="middle" font-family="Arial, sans-serif" font-size="34" fill="#0c1716">Optimism</text>
+  <text x="1270" y="623" text-anchor="middle" font-family="Arial, sans-serif" font-size="21" fill="#0c1716">frequent smaller flows</text>
+  <text x="1270" y="655" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#0c1716">95.7 transfers / active address</text>
+
+  <rect x="600" y="815" width="400" height="90" fill="#e9e0d0"/>
+  <text x="800" y="852" text-anchor="middle" font-family="Arial, sans-serif" font-size="25" fill="#111">CEXs, DEXs, bridges, wallets</text>
+  <text x="800" y="885" text-anchor="middle" font-family="Arial, sans-serif" font-size="20" fill="#3c3832">public counterparties, partial labels, queryable flows</text>
+
+  <g font-family="Arial, sans-serif" font-size="22" fill="#f5f0e6">
+    <text x="90" y="875">Observable traits:</text>
+    <text x="90" y="912">flow size, transfer count, timing, chain routing, contract touchpoints</text>
+  </g>
+  <g font-family="Arial, sans-serif" font-size="20" fill="#c8c1b4">
+    <text x="1110" y="875">Caveat:</text>
+    <text x="1110" y="912">address topology is not user geography</text>
+  </g>
+  <text x="80" y="965" font-family="Arial, sans-serif" font-size="16" fill="#8f887d">Source: Dune query 7409573, stablecoins_multichain.transfers, last 180 days at execution; USD stablecoin transfers on Ethereum, Base, Arbitrum, Optimism; zero-address mint/burn transfers excluded. Values rounded.</text>
+</svg>

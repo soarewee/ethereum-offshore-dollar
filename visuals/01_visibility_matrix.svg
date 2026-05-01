@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <rect width="1600" height="1000" fill="#f4f0e8"/>
+  <text x="80" y="95" font-family="Georgia, serif" font-size="58" fill="#121212">From Hidden Dollars To Visible Dollars</text>
+  <text x="82" y="142" font-family="Arial, sans-serif" font-size="23" fill="#45413a">The Eurodollar made dollars global but opaque. Stablecoins make one slice of offshore-dollar circulation queryable.</text>
+
+  <rect x="80" y="210" width="700" height="105" rx="0" fill="#181818"/>
+  <text x="120" y="275" font-family="Arial, sans-serif" font-size="34" fill="#f4f0e8">Old Offshore Dollars</text>
+  <text x="120" y="305" font-family="Arial, sans-serif" font-size="18" fill="#c9c0b2">bank ledgers, correspondent accounts, swaps, repo, private balance sheets</text>
+
+  <rect x="820" y="210" width="700" height="105" rx="0" fill="#0f5b4f"/>
+  <text x="860" y="275" font-family="Arial, sans-serif" font-size="34" fill="#f4f0e8">Stablecoin Dollars</text>
+  <text x="860" y="305" font-family="Arial, sans-serif" font-size="18" fill="#d5ece5">wallets, public transfers, issuers, bridges, L2s, smart contracts</text>
+
+  <g font-family="Arial, sans-serif" font-size="23">
+    <text x="110" y="380" fill="#121212" font-weight="700">What matters</text>
+    <text x="410" y="380" fill="#121212" font-weight="700">Eurodollar visibility</text>
+    <text x="930" y="380" fill="#121212" font-weight="700">Stablecoin visibility</text>
+  </g>
+
+  <g font-family="Arial, sans-serif" font-size="22">
+    <rect x="80" y="410" width="1440" height="70" fill="#fffaf0"/>
+    <text x="110" y="455" fill="#121212">Supply</text>
+    <text x="410" y="455" fill="#6f675d">Estimated, delayed, institution-specific</text>
+    <text x="930" y="455" fill="#123d36">Token supply can be tracked continuously</text>
+
+    <rect x="80" y="480" width="1440" height="70" fill="#ebe4d8"/>
+    <text x="110" y="525" fill="#121212">Flows</text>
+    <text x="410" y="525" fill="#6f675d">Private bank and dealer ledgers</text>
+    <text x="930" y="525" fill="#123d36">Transfers are public by block and timestamp</text>
+
+    <rect x="80" y="550" width="1440" height="70" fill="#fffaf0"/>
+    <text x="110" y="595" fill="#121212">Routing</text>
+    <text x="410" y="595" fill="#6f675d">Correspondent chains are hard to observe</text>
+    <text x="930" y="595" fill="#123d36">Chains, L2s, bridges, contracts are visible</text>
+
+    <rect x="80" y="620" width="1440" height="70" fill="#ebe4d8"/>
+    <text x="110" y="665" fill="#121212">Timing</text>
+    <text x="410" y="665" fill="#6f675d">Settlement timing is fragmented</text>
+    <text x="930" y="665" fill="#123d36">Every transfer has block time</text>
+
+    <rect x="80" y="690" width="1440" height="70" fill="#fffaf0"/>
+    <text x="110" y="735" fill="#121212">Stress</text>
+    <text x="410" y="735" fill="#6f675d">Often visible after spreads break</text>
+    <text x="930" y="735" fill="#123d36">Mint, burn, bridge, depeg, liquidity signals are queryable</text>
+
+    <rect x="80" y="760" width="1440" height="70" fill="#ebe4d8"/>
+    <text x="110" y="805" fill="#121212">Geography</text>
+    <text x="410" y="805" fill="#6f675d">Indirect and institution-mediated</text>
+    <text x="930" y="805" fill="#8a3b21">Still indirect: wallets do not reveal country</text>
+  </g>
+
+  <rect x="80" y="875" width="1440" height="58" fill="#121212"/>
+  <text x="110" y="912" font-family="Georgia, serif" font-size="29" fill="#f4f0e8">Punchline: stablecoins are not a fully transparent dollar system. They are the first offshore-dollar rail with public flow data.</text>
+</svg>
+

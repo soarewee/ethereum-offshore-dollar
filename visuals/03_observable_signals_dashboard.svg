@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="1000" viewBox="0 0 1600 1000">
+  <rect width="1600" height="1000" fill="#eee7db"/>
+  <text x="80" y="95" font-family="Georgia, serif" font-size="58" fill="#121212">A Public Instrument Panel For Offshore Dollars</text>
+  <text x="82" y="142" font-family="Arial, sans-serif" font-size="23" fill="#4e4941">Stablecoins make dollar movement observable as signals, not just stories.</text>
+
+  <g font-family="Arial, sans-serif">
+    <rect x="80" y="205" width="450" height="250" fill="#111"/>
+    <text x="110" y="250" font-size="26" fill="#f5f0e6">Settlement size</text>
+    <text x="110" y="316" font-size="64" fill="#f0b35a">$64.8k</text>
+    <text x="110" y="354" font-size="22" fill="#f5f0e6">Ethereum average stablecoin transfer</text>
+    <text x="110" y="397" font-size="18" fill="#b9b0a4">Trait revealed: mainnet as large-value dollar rail</text>
+
+    <rect x="575" y="205" width="450" height="250" fill="#0f5b4f"/>
+    <text x="605" y="250" font-size="26" fill="#f5f0e6">Distribution intensity</text>
+    <text x="605" y="316" font-size="64" fill="#bdebd9">95.7x</text>
+    <text x="605" y="354" font-size="22" fill="#f5f0e6">Optimism transfers per active address</text>
+    <text x="605" y="397" font-size="18" fill="#d2e9df">Trait revealed: frequent L2 circulation</text>
+
+    <rect x="1070" y="205" width="450" height="250" fill="#7c593c"/>
+    <text x="1100" y="250" font-size="26" fill="#f5f0e6">Weekend activity</text>
+    <text x="1100" y="316" font-size="64" fill="#ffe0a3">26%</text>
+    <text x="1100" y="354" font-size="22" fill="#f5f0e6">Ethereum weekend transfer share</text>
+    <text x="1100" y="397" font-size="18" fill="#f1d8bd">Trait revealed: dollar rail outside banking hours</text>
+  </g>
+
+  <g font-family="Arial, sans-serif">
+    <rect x="80" y="510" width="690" height="330" fill="#fffaf0" stroke="#111" stroke-width="2"/>
+    <text x="115" y="562" font-size="31" fill="#121212" font-weight="700">What can be queried</text>
+    <text x="115" y="618" font-size="24" fill="#121212">1. Token supply and circulation</text>
+    <text x="115" y="662" font-size="24" fill="#121212">2. Transfer timing by block and hour</text>
+    <text x="115" y="706" font-size="24" fill="#121212">3. Routing across mainnet, L2s, bridges</text>
+    <text x="115" y="750" font-size="24" fill="#121212">4. Counterparty classes and contract touchpoints</text>
+    <text x="115" y="794" font-size="24" fill="#121212">5. Concentration, runs, liquidity shifts</text>
+
+    <rect x="830" y="510" width="690" height="330" fill="#fffaf0" stroke="#111" stroke-width="2"/>
+    <text x="865" y="562" font-size="31" fill="#121212" font-weight="700">What remains hidden</text>
+    <text x="865" y="618" font-size="24" fill="#121212">1. Real-world user identity</text>
+    <text x="865" y="662" font-size="24" fill="#121212">2. Exact user geography</text>
+    <text x="865" y="706" font-size="24" fill="#121212">3. Legal ownership behind wallets</text>
+    <text x="865" y="750" font-size="24" fill="#121212">4. Economic intent of many transfers</text>
+    <text x="865" y="794" font-size="24" fill="#121212">5. Offchain issuer and banking relationships</text>
+  </g>
+
+  <rect x="80" y="890" width="1440" height="58" fill="#121212"/>
+  <text x="110" y="927" font-family="Georgia, serif" font-size="29" fill="#f4f0e8">The new offshore dollar is not fully transparent. But unlike the old one, it leaves a public signal trail.</text>
+  <text x="80" y="975" font-family="Arial, sans-serif" font-size="16" fill="#6f675d">Source: Dune query 7409573, stablecoins_multichain.transfers, last 180 days at execution; USD stablecoin transfers on Ethereum, Base, Arbitrum, Optimism; zero-address mint/burn transfers excluded. Values rounded.</text>
+</svg>
